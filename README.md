@@ -34,7 +34,7 @@ Official distribution portal featuring 1-click CRX auto-update packages, ZIP dow
 5. *Enjoy automatic background updates with zero manual maintenance.*
 
 ### Option 2: Developer Unpacked (.zip)
-1. Download the latest [`lobnho-extension.zip`](https://lobinho.eu/extension/) from [Releases](https://github.com/lobnho/lobnho-extensao/releases).
+1. Download the latest [`lobnho-extension.zip`](https://lobinho.eu/extension/) from [Releases](https://github.com/eolobinhooooooooooooooohhoooooo/lobnho-extensao/releases).
 2. Extract the archive into a permanent folder on your machine.
 3. In `chrome://extensions`, enable **Developer mode**.
 4. Click **Load unpacked** and select the extracted directory.
@@ -52,7 +52,7 @@ Official distribution portal featuring 1-click CRX auto-update packages, ZIP dow
 
 ## Downloads & Releases
 
-- Latest builds are published on [GitHub Releases](https://github.com/lobnho/lobnho-extensao/releases).
+- Latest builds are published on [GitHub Releases](https://github.com/eolobinhooooooooooooooohhoooooo/lobnho-extensao/releases).
 - Official distribution hub: [https://lobinho.eu/extension/](https://lobinho.eu/extension/)
 
 ---
